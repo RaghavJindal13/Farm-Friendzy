@@ -1,0 +1,12 @@
+*********
+Farm Friendzy  is an Internet of things(IoT) sensing, notifications, dashboard and analytics platform for urban and large-scale agriculture, with automated irrigation technology
+The farm is equipped with sensors, it is self/minimal maintenance.
+You can talk to Farm Friendzy employee through our chat box  and get notified anytime about the status of your farm
+click here to get redirected to our chatbox
+
+Raspberry Pi, has to collect data, use the Wifi module to connect to the Webhooks and update them regularly (say once every 10mins)
+We are using:
+1)Light intensity Sensor:BH1750FVI or TSL2561
+2)Temperature sensor:DS18B20
+3)pH or Conductivity sensor
+4)water level sensor:HC-SR04
