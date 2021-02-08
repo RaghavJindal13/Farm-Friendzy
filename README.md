@@ -1,6 +1,6 @@
 # Farm-Friendzy
 IIT Roorkee Hackathon<br>
-Farm Friendzy is an Internet of things (IoT) sensing, notifications, dashboard and analytics platform for urban and large-scale agriculture
+Farm Friendzy is an Internet of things (IoT) sensing, notifications, dashboard and analytics platform for urban and large-scale agriculture.
 <br>, with automated irrigation technology Our solution to the problem is to create a sustainable platform for sensing and 
 <br>
 irrigation automation with predictive analysis via Machine Learning algorithm. With one objective in mind: SAVE RESOURCES. 
